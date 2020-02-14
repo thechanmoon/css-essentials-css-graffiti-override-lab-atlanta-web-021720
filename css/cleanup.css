@@ -10,3 +10,19 @@
 #wall #tag-3.slick.wicked { 
   display: none;
 }
+
+#wall .parent #tag-4 {
+  display: none; 
+}
+
+#wall div.parent #tag-5.slick {
+  display: none; 
+}
+
+body #wall div.parent div:last-child #tag-6 {
+  display: none; 
+}
+
+body #wall div.parent div:first-child > #tag-7.slick {
+  display: none;
+}
